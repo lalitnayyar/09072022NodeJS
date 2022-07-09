@@ -31,3 +31,10 @@ GraphQL
 Deployment
 Beyond Web Servers
 Node + TypeScript, Deno
+
+REPL
+
+Read - Read UserInput
+Eval - Evaluate User Input
+Print - Print Output (result)
+Loop - Wait for new input
