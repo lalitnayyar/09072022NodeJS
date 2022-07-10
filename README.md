@@ -46,3 +46,14 @@ Used for real Apps
 Great Playground!
 Pr
 Execute code as you write
+
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+https://academind.com/tutorials/reference-vs-primitive-values
+https://academind.com/tutorials?filter=javascript
+
+arrow function
+
+https://academind.com/tutorials/this-keyword-function-references
+
