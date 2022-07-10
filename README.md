@@ -38,3 +38,11 @@ Read - Read UserInput
 Eval - Evaluate User Input
 Print - Print Output (result)
 Loop - Wait for new input
+
+
+Execute Files
+Use the REPL
+Used for real Apps
+Great Playground!
+Pr
+Execute code as you write
