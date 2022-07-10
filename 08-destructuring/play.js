@@ -15,6 +15,12 @@ printName(person);
 const { name, age } = person;
 console.log(name, age);
 
+
+const tname = ({ age}) => {
+  console.log('age -> '+age)
+}
+
+tname(person);
 // const copiedPerson = { ...person };
 // console.log(copiedPerson);
 
