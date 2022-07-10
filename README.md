@@ -57,3 +57,9 @@ arrow function
 
 https://academind.com/tutorials/this-keyword-function-references
 
+NODE Js
+1. How does the web work (Refresher)?
+2. Creating a Node.js Server
+3. Using Node Core Modules
+4. Working with Requestes & Responses (Basics)
+5. Asynchronous Code & the Event loop
