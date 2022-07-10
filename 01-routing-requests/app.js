@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => {
     return res.end();
   }
   if (url === '/message' && method === 'POST') {
-    fs.writeFileSync('message.txt', 'DUMMY');
+    fs.writeFileSync('message.txt', text);
     res.statusCode = 302;
     res.setHeader('Location', '/');
     return res.end();
