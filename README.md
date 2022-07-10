@@ -63,3 +63,5 @@ NODE Js
 3. Using Node Core Modules
 4. Working with Requestes & Responses (Basics)
 5. Asynchronous Code & the Event loop
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
